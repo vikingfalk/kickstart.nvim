@@ -686,7 +686,6 @@ require('lazy').setup({
         html = {},
         cssls = {},
         biome = {},
-        kotlin_language_server = {},
 
         lua_ls = {
           -- cmd = { ... },
